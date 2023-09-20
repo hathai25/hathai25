@@ -4,7 +4,7 @@
 
 Hello, my name is Pham Huy Ha Thai and I am a student at [Hanoi University of Science & Technology](https://www.hust.edu.vn/) majoring in Computer Engineering. My technology stack involves C/C++, Java, Javascript, Next.js, and, HTML/CSS/TailwindCSS. Besides programming, I have an immense interest in football.
 
-- 🔭 I’m currently a software developer at [Viettel High Tech](https://viettelhightech.vn/)
+- 🔭 I’m currently a software developer at [H2 Corporation](https://h2corporation.co.jp/)
 - 💬 Brainstorm with me over tech, algorithms, football, and music 
 - 📫 How to reach me: phamhuyhathai@gmail.com
 - 😄 Pronouns: Programmer/He/Him/His
